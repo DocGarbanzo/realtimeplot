@@ -32,7 +32,7 @@ client = RealtimePlotClient()
 
 # Start the server (if not already running)
 # Make sure to run this command in a separate terminal window
-# realtimeplot-server
+# realtimeplotter
 
 # Generate and send random data
 for i in range(200):
