@@ -43,6 +43,7 @@ for i in range(200):
 # Close the client connection
 client.close()
 ```
+
 Make sure you have the realtimeplot-server command running in a separate terminal window before running the client code.
 
 For more advanced usage and customization options, please refer to the documentation.
